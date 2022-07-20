@@ -1,0 +1,3 @@
+Node.js is of course a JavaScript, it’s async, event driven and single threaded (but it can be optimize). When kept async, Node can handle a high amount of concurrent requests. It is not recommended for CPU intensive work like data crunching, ML, big maths etc.
+
+Express is a standard API framework for node.js. It is open source and has a huge community and support from anything that has to do with APIs in Node. Express is here to stay with version upgrades, stability and is very easy to use and implement.
